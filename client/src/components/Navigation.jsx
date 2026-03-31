@@ -6,7 +6,7 @@ const Navigation = () => {
     return (
         <nav>
             <ul>
-                <li><h1>Bolt Bucket 🏎️</h1></li>
+                <li><a href='/'><h1>Bolt Bucket 🏎️</h1></a></li>
             </ul>
 
             <ul>
